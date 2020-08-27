@@ -1,0 +1,9 @@
+file:
+  /usr/local/bin/gitlab-elasticsearch-indexer:
+    exists: true
+    mode: "0755"
+    size: 21218480
+    owner: root
+    group: root
+    filetype: file
+    contains: []
